@@ -28,4 +28,8 @@ As a part of developing an e-commerce web application, you have to create a data
 
 ### Show All Products
 
+![Screen Shot 2021-01-25 at 9 51 02 AM](https://user-images.githubusercontent.com/58124052/105729625-0e01e080-5ef3-11eb-95b8-0c1da401f45c.png)
+
 ### New Product Form
+
+![Screen Shot 2021-01-25 at 9 51 16 AM](https://user-images.githubusercontent.com/58124052/105729636-0fcba400-5ef3-11eb-98dd-ccc111f87109.png)
